@@ -9,5 +9,6 @@ export default defineConfig({
     
   },
   site: 'https://Thaarun23.github.io',
-    base: '/Githubportfolio/'
+    base: '/Githubportfolio/',
+  output: 'static',
 });

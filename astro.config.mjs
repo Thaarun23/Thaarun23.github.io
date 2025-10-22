@@ -6,8 +6,8 @@ import tailwindcss from "@tailwindcss/vite";
 export default defineConfig({
   vite: {
     plugins: [tailwindcss()],
-    site: 'https://Thaarun23.github.io',
-    base: 'https://github.com/Thaarun23/Githubportfolio'
+    
   },
-  
+  site: 'https://Thaarun23.github.io',
+    base: 'https://github.com/Thaarun23/Githubportfolio'
 });

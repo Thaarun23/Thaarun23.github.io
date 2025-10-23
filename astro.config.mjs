@@ -8,7 +8,8 @@ export default defineConfig({
     plugins: [tailwindcss()],
     
   },
-  site: 'https://Thaarun23.github.io',
-    base: '/Githubportfolio/',
+  site: "https://thaarun23.github.io",
+  base: "/Githubportfolio/",
+ 
   output: 'static',
 });

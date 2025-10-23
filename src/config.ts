@@ -9,20 +9,20 @@ export const siteConfig = {
       github: "https://github.com/Thaarun23",
   },
   aboutMe:
-    "Hi! I am Thaarun Sivakumar an Aspiring Robotics engineer specializing in perception,decision making and machine learning and Robot AI.",
+    "Hi! I am Thaarun Sivakumar a Robotics engineer specializing in perception,decision making and machine learning and Robot AI.",
     skills: ["Java", "Python", "C / C++", "MySQL","ROS","ROS2","Git","Gazebo","Rviz","MuJoCo","FANUC ROBOGUIDE","PX4","QgroundControl"],
   projects: [
     {
       name: "Jerboa Inspired Hopping Robot",
       description:
-        "Developed a physics-based simulation of a jerboa-inspired hopping robot in MuJoCo, featuring articulated leg mechanisms, dynamic control, and motion optimization.î",
+        "Developed a physics-based simulation of a jerboa-inspired hopping robot in MuJoCo, featuring articulated leg mechanisms, dynamic control, and motion optimization.‚Äù",
           link: "https://github.com/Thaarun23/Jerboa_robot_simulation",
       skills: ["MuJoCo", "Python", "Solidworks","ESP32"],
     },
     {
         name: "Vision-Guided Drone on a Dynamic Landing platform",
       description:
-        "ìDesigned and implemented a vision-guided autonomous landing system for a Parrot MiniDrone using MATLAB and Simulink, leveraging HSV filtering, optical flow, and PID control for dynamic target tracking and precision landing.î",
+        "‚ÄúDesigned and implemented a vision-guided autonomous landing system for a Parrot MiniDrone using MATLAB and Simulink, leveraging HSV filtering, optical flow, and PID control for dynamic target tracking and precision landing.‚Äù",
         link: "https://github.com/Thaarun23/Drone-Landing",
       skills: ["MATLAB", "Simulink"],
     },

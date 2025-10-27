@@ -9,7 +9,7 @@ export default defineConfig({
     
   },
   site: "https://thaarun23.github.io",
-  base: "/Githubportfolio/",
+  base: "/",
  
   output: 'static',
 });
